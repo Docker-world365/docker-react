@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Welcome to DockerSpace using React ! 
+         Welcome to Aws-DockerSpace using React ! 
         </p>
         <a
           className="App-link"
